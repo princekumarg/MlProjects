@@ -4,6 +4,9 @@
 
 Python is a high-level, interpreted programming language known for its simplicity and readability. It supports multiple programming paradigms, including procedural, object-oriented, and functional programming.
 
+![image](https://github.com/princekumarg/MlProjects/assets/86905668/0d1f5e13-1c56-42b7-b821-85a3c2ca85f5)
+
+
 ## Key Concepts:
 
 1. **Syntax:** Python syntax is clean and easy to understand, using indentation to define code blocks. It uses colons (`:`) and whitespace for structuring code.
